@@ -2231,6 +2231,9 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   padding: 12rem 0 7.8rem;
   text-align: center;
 }
+#testimonials .section-intro h3 {
+  color: rgba(21, 21, 21, 0.5);
+}
 #testimonials h2 {
   font-family: "montserrat-bold", sans-serif;
   font-size: 1.8rem;
