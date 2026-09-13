@@ -424,7 +424,7 @@
 		ssPreloader();
 		ssFitVids();
 		ssMasonryFolio();
-		ssLightGallery();
+		// ssLightGallery(); // disabled - project images should not be clickable
 		ssFlexSlider();
 		ssOwlCarousel();
 		ssMenuOnScrolldown();
