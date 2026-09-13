@@ -1,35 +1,19 @@
-# Content Notes — writing.hamednouri.com
+# Content Notes — delivery.hamednouri.com
 
-## What Was Replaced
-- Removed all demo/Lorem ipsum text (Juan Dela Cruz, fake employers, fake stats)
-- Removed fake social links (Facebook, Behance, Dribbble, Instagram)
-- Removed fake resume timeline (Awesome Studio, Super Cool Agency, University of Life, etc.)
-- Removed fake stats section (1500 projects, 900 happy clients, 200 awards, etc.)
-- Removed fake services section (Webdesign, Branding, UI/UX, etc.)
-- Removed template ad section (Dreamhost sponsorship)
-- Removed Style Demo nav link
+Template: Jonson (themewagon/jonson)
+Public email: delivery@hamednouri.com
+Audience: Hiring managers for implementation delivery, customer success, enablement roles
 
-## What Was Added
-- Real name, role, tagline
-- Real about/profile text
-- Skills list (no fake % bars for writing skills — bars kept but reflect relative emphasis only)
-- 4 real project cards with modals: CiraConnect, CiraNet, Aya & Sura, MManga
-- CTA section pointing to writing@hamednouri.com
-- Contact section with Denton TX location, correct email, GitHub link
-- Footer with real copyright and GitHub/email social links
-- OG meta tags
+## Real metrics used (confirmed)
+- 28% software adoption increase (CiraConnect)
+- 22% support request reduction (CiraConnect)
 
-## Confirmed Metrics Used
-- CiraConnect: +28% adoption, -22% support reduction
-- MManga: 44K+ members
+## Experience entries (self-directed roles — labeled as such)
+- Internal Communications & Enablement Lead — CiraConnect 2021–2024
+- Software Rollout Communication Specialist — Google Workspace→M365 2022–2023
+- Adoption & Feedback Loop Designer — CiraConnect 2021–2024
 
-## Image TODOs
-- images/profile-pic.jpg — replace with real headshot
-- images/portfolio/liberty.jpg — replace with CiraConnect project screenshot
-- images/portfolio/shutterbug.jpg — replace with CiraNet project screenshot
-- images/portfolio/clouds.jpg — replace with Aya & Sura project screenshot
-- images/portfolio/beetle.jpg — replace with MManga project screenshot
-- images/portfolio/modals/m-*.jpg — replace all modal images with real samples
-
-## Nav Simplified
-Home | About | Projects | Contact (removed Resume, Services, Style Demo)
+## Resume strategy
+Primary: Braze Delivery Manager Optimized (add to public/files/ when available)
+Secondary: Delivery Manager 2026
+CTA: mailto:delivery@hamednouri.com?subject=Resume%20Request
