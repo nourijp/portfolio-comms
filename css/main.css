@@ -2141,10 +2141,6 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   font-size: 2rem;
   line-height: 4.2rem;
 }
-.bricks-wrapper .item-wrap .details-link:hover, .bricks-wrapper .item-wrap .details-link:focus {
-  background-color: #FFFFFF;
-  color: #000000;
-}
 .bricks-wrapper .item-wrap .item-text, .bricks-wrapper .item-wrap .details-link {
   opacity: 1;
   visibility: visible;
